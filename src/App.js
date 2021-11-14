@@ -111,6 +111,7 @@ function App() {
     console.log("inpit ===>", filterInput);
     filterDB[filterType] = filterInput;
     const filterResult = [];
+    setCurrentPage(1);
     console.log("filterDB", filterDB);
     if (filterDB["industry"].length === 0 && filterDB["country"].length === 0) {
       setStartUpsDB(originalDB);
