@@ -3,7 +3,7 @@
 ----
 <!-- blank line -->
 ### DESCRIPTION
-This is a web app built by React.js implement a multiple filter functionality. 
+This is a web app built by React.js implements a multiple filter functionality. 
 <!-- blank line -->
 ----
 <!-- blank line -->
